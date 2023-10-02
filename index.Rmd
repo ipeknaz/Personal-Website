@@ -1,0 +1,17 @@
+---
+title: "About"
+output: html_document
+---
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 1;">
+    <img src="media/profile_photo.png" alt="Profile Photo">
+  </div>
+  <div style="text-align: right; flex: 2;">
+    <p>I am an undergraduate student at Swarthmore College, double majoring in Computer Science and Biology. I have experience building software for back-end and web development as well as for machine learning and mobile robotics applications. As an independent undergraduate researcher, I have gained experience in cutting-edge computational biology research techniques such as single-cell RNA sequencing and genome assembly. Fueling my academic and professional journey is an unwavering passion for large-scale data analysis and biotechnology.</p>
+
+
+    <p>**Programming Languages:** Python, C/C++, SQL, R, HTML, CSS, JavaScript</p>
+
+    <p>**Skills:** computational biology and bioinformatics, data analysis (Excel, R, Python), project management</p>
+  </div>
+</div>

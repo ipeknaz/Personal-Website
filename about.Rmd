@@ -1,0 +1,146 @@
+---
+title: "Ipeknaz Icten"
+output: html_document
+---
+### Education
+***
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 3;">
+    **Swarthmore College**, *Swarthmore, PA*
+  </div>
+  <div style="text-align: right; flex: 1;">
+    Sept. 2020 - May 2024
+  </div>
+</div>
+
+Bachelor of Arts, double major in Computer Science and Biology; GPA: 3.9 
+
+- Coursework: Data Structures and Algorithms, Computer Systems, Software Engineering, Mobile Robotics, Several-Variable Calculus
+- Awards: Sigma Xi Scientific Research Honor Society, CRC Press Achievement Award in Chemistry
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 3;">
+    **University of Oxford**, *Oxford, UK*
+  </div>
+  <div style="text-align: right; flex: 1;">
+    Sept. 2022 - June 2023
+  </div>
+</div>
+
+- Coursework: Machine Learning, Linear Algebra, Databases, Deep Learning in Healthcare
+
+### Professional Experience
+***
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 3;">
+    **Project Leader**, Oxford Strategy Group, *Oxford, UK*
+  </div>
+  <div style="text-align: right; flex: 1;">
+    Oct. 2022 - March 2023
+  </div>
+</div>
+
+- Managed six consultants in market expansion research for Canadian DEI technology start-up.
+- Researched structural trends and drivers of global market growth in the digital language learning market.  
+- Determined disruption potential of new technology to the language learning market for global education firm.
+- Led biweekly meetings with clients to present research findings, recommendations, and strategic plan.
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 3;">
+    **Font-End Developer Intern**, LpsChain, *Istanbul, Turkey*
+  </div>
+  <div style="text-align: right; flex: 1;">
+    Jan. 2023 - Feb. 2023
+  </div>
+</div>
+
+- Implemented content preview functionality on online blockchain data storage and transfer platform using Node.js.
+-	Prepared product overview slide decks for client presentations.
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 3;">
+    **University Innovation Fellow**, Swarthmore College, *Swarthmore, PA*
+  </div>
+  <div style="text-align: right; flex: 1;">
+    Sept. 2021 - May 2022
+  </div>
+</div>
+
+- Researched strengths and shortcomings of innovation and entrepreneurship resources of Swarthmore College.
+- Presented findings and improvement plan to Swarthmore Strategic Planning Committee stakeholders.
+- Planned and executed the Tri-College Hackathon and Designing for Belonging Workshop on campus. 
+-	Attended design thinking and entrepreneurship practical training workshops at Stanford University d.school.
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 3;">
+    **Computer Science Teaching Assistant**, Swarthmore College *Swarthmore, PA*
+  </div>
+  <div style="text-align: right; flex: 1;">
+    Sept. 2021 - May 2022
+  </div>
+</div>
+
+- Assisted teaching of introductory computer science course three days a week.
+- Helped students debug Python code and analyze algorithms for coursework at weekly TA sessions.
+
+### Research Experience
+***
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 3;">
+    **Research Assistant**, University of Oxford Dept. of Medicine, *Oxford, UK*
+  </div>
+  <div style="text-align: right; flex: 1;">
+    May 2023 - July 2023
+  </div>
+</div>
+
+Investigate how neuronal inputs drive stem cell growth in the heart for regeneration after an injury. 
+
+- Collected RNA sequencing data from the hearts of invertebrate marine model organism.
+- Developed computational programs in R and Python to determine gene expression profile of heart cells.
+- Programmed new tool to map interactions between neuronal and muscle cell populations within the heart. 
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="text-align: left; flex: 3;">
+    **Research Assistant**, Swarthmore College Dept. of Biology, *Swarthmore, PA*
+  </div>
+  <div style="text-align: right; flex: 1;">
+    June 2021 - July 2022
+  </div>
+</div>
+
+Investigate genetic remnants of evolutionary changes to the heart development program of chordates. 
+
+- Performed genome assembly of invertebrate marine organism at the Barcelona Supercomputing Center.
+- Analyzed evolutionary changes in the heart gene regulatory network using Python, Microsoft Excel and MacVector.
+- Validated computational findings in live marine organisms via genetic assays and confocal imaging.
+- Presented results in research talk on comparative genomics at SICB annual conference in Austin, TX (2023).
+
+**Techniques:** genome assembly, comparative genomics and transcriptomics, single-cell RNA sequencing analysis, deep learning, confocal imaging, transgenics
+
+### Projects
+***
+
+**Chest X-Ray Image Classifier**
+
+- Implemented machine learning algorithms including ...... to classify chest x-ray images as pneumonia-containing or non pneumonia-containing. 
+- Compared accuracy of different deep learning algorithms for medical classification tasks. 
+
+**
+
+**Line Follower Robot**
+ROS program to control turtlebot3 robots to drive follow a red line. 
+
+**Matchbox Mojo**
+Flask web application for Swarthmore College students to virtually explore the layout and machines of the college gym and build workout routines. 
+
+- Building traversable 2D map of the Swarthmore College gym using HTML canvas.
+- Building user login and user authentication. 
+- Building user profiles and workout designer functionality.
+
+**Programming Languages:** Python, C/C++, SQL, R, HTML, CSS, JavaScript
+
+
+

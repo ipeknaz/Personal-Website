@@ -1,0 +1,16 @@
+name: "Ipeknaz Icten's Personal Website"
+output_dir: "docs"
+navbar:
+  title: "Ipeknaz Icten"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+output:
+  html_document:
+    theme: flatly
+    include: 
+      after_body: footer.html
